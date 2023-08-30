@@ -41,7 +41,7 @@ git clone https://github.com/keerti1924/QR-Code-Generator.git
 
 ## Live Demo
 
-<a href="https://keerti1924.github.io/Scientific-Calculator/"><strong>QR Code Generator</strong></a>
+<a href="https://keerti1924.github.io/QR-Code-Generator/"><strong>QR Code Generator</strong></a>
 
 ## ⭐️ Show your support 
 
