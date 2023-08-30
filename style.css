@@ -89,3 +89,18 @@ header p{
     text-align: center;
     padding: 10px;
 }
+
+@media (max-width:380px) {
+    .wrapper{
+        min-width: 310px;
+        padding: 15px 22px;
+    }
+    
+    .wrapper.active{
+        height: 630px;
+    }
+    
+    .wrapper .form{
+        margin: 15px 0 20px;
+    }
+}
